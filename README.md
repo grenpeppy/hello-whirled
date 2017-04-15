@@ -1,2 +1,3 @@
 # hello-whirled
 In the beginning...
+I'm supposed to write about myself. Christian and programming wanna-be.
